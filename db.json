@@ -1,0 +1,67 @@
+{
+  "fotografias": [
+    {
+      "id": 1,
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": "May Torres",
+      "fecha": "22/03/2023",
+      "ciudad": "Bilbao",
+      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
+      "comentario": "Bonito cielo al atardecer en la ría de Bilbao"
+    },
+    {
+      "id": 2,
+      "avatar": "https://images-ext-2.discordapp.net/external/kteAfItcbQ0-5tNxYgDHtWts2QFFQ2eBNLcg1CAvmmU/%3Fv%3D4/https/avatars.githubusercontent.com/u/110405159?width=410&height=410",
+      "name": "Yorlin Pacha ",
+      "fecha": "22/03/2023",
+      "ciudad": "Santander",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyf3qBvORNBeT5kDwEz1VgxyXIpscDGVGgA&usqp=CAU",
+      "comentario": "La playa del sardinero"
+    },
+    {
+      "id": 3,
+      "avatar": "https://avatars.githubusercontent.com/u/118900582?v=4",
+      "name": "Edurne",
+      "fecha": "23/03/2023",
+      "ciudad": "Irlanda",
+      "foto": "https://images.pexels.com/photos/2382681/pexels-photo-2382681.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "comentario": "Cliffs of Moher"
+    },
+    {
+      "id": 4,
+      "avatar": "https://randomuser.me/api/portraits/men/24.jpg",
+      "name": "Xabier Iglesias",
+      "fecha": "20/03/2023",
+      "ciudad": "Madrid",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkL8cqX4XLliVFdx44J4I2RPVkBYOdL94Dw&usqp=CAU",
+      "comentario": "Anochecer con cielo rojo"
+    },
+    {
+      "id": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
+      "name": "Jone Guerrera",
+      "fecha": "18/03/2023",
+      "ciudad": "Zaragoza",
+      "foto": "https://images.squarespace-cdn.com/content/v1/5a86b05bcf81e0af04936cc7/1647973252387-U39JJMUIVW2HVE0Z7AAK/que-ver-en-zaragoza.jpg?format=1500w",
+      "comentario": "Bonito cielo"
+    },
+    {
+      "id": 6,
+      "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
+      "name": "Gonzalo Lalala",
+      "fecha": "18/03/2023",
+      "ciudad": "Valencia",
+      "foto": "https://www.floresyplantas.net/wp-content/uploads/ciudad-de-valencia-y-su-rio-turia.jpg",
+      "comentario": "Ciudad de las ciencias, día nublado"
+    },
+    {
+      "id": 7,
+      "avatar": "https://avatars.githubusercontent.com/u/16567193?v=4",
+      "name": "Jonathan Echeverria",
+      "fecha": "18/03/2023",
+      "ciudad": "Sevilla",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_nmQ9AsMUSpUjQIHoG43o4NnOlPH-q9h5A&usqp=CAU",
+      "comentario": "Luna llena en el cielo de Sevilla"
+    }
+  ]
+}
